@@ -3,7 +3,6 @@
 ## I'm a Full Stack Developer!
 
 - 👀 I’m working as an SDE
-- 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Getting good at Python, React Native, AWS, Azure and Linux
 - ⚡ Fun fact: I love to **Write** and **Beatbox**
 
